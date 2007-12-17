@@ -10,7 +10,6 @@ Source0:	Par152.tar.bz2
 URL:		http://www.nicemice.net/par/
 License:	Distributable - Copyright (C) 2000 by Adam M. Costello
 Group:		Text tools
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Par is a paragraph reformatter, similar to the standard Unix fmt
