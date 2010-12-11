@@ -1,6 +1,6 @@
 %define name	par
 %define version	1.52
-%define release	%mkrel 6
+%define release	%mkrel 7
 
 Summary:	A paragraph reformatter
 Name:		%{name}
