@@ -3,7 +3,7 @@
 Summary:	A paragraph reformatter
 Name:		par
 Version:	1.52
-Release:	7
+Release:	8
 Source0:	Par152.tar.bz2
 URL:		http://www.nicemice.net/par/
 License:	Distributable - Copyright (C) 2000 by Adam M. Costello
