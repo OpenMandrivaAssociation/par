@@ -9,6 +9,7 @@ URL:		https://www.nicemice.net/par/
 License:	Distributable - Copyright (C) 2000 by Adam M. Costello
 Group:		Text tools
 
+BuildRequires:	make
 %description
 Par is a paragraph reformatter, similar to the standard Unix fmt
 filter, but better. It uses a dynamic programming algorithm, which
